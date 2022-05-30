@@ -1,0 +1,4 @@
+- I'm a second year computer science student
+- I’m interested in space, web dev, and game dev
+- I’m currently learning python, java, react, HTML, CSS, and Unity
+- You can reach me through tianek@protonmail.com
